@@ -1,0 +1,13 @@
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\Utils.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\Utils.pdb
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\obj\Release\Utils.csproj.CoreCompileInputs.cache
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\obj\Release\Utils.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\obj\Release\Utils.pdb
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Bson.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Driver.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Bson.xml
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Driver.xml
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\Utils\bin\Release\MongoDB.Driver.Core.xml

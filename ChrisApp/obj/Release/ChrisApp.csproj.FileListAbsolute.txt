@@ -1,0 +1,13 @@
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\ChrisApp.exe.config
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\ChrisApp.exe
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\ChrisApp.pdb
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Bson.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Driver.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Bson.xml
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Driver.xml
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\obj\Release\ChrisApp.csproj.CoreCompileInputs.cache
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\obj\Release\ChrisApp.exe
+C:\Users\celie\Documents\Git\TestJenkinsDotNet\ChrisApp\obj\Release\ChrisApp.pdb
